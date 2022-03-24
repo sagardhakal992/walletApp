@@ -26,6 +26,11 @@ request formData=['amount'=>100,'receiver_email'=>"adam@email.com"]
 <h3>/api/transactions</h3>:"get request for trasnsfer history "
 
 
+change DB_DATABASE on .env.test file
+
+run test with ./vendor/bin/phpunit.bat
+
+
 
 
 
