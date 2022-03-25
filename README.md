@@ -6,7 +6,7 @@
 run <h5>php artisan migrate:fresh --seed</h5>
 
 two users:
-<h5>sagar@gmail.com</h5>
+<h5 class="text-warning">sagar@gmail.com</h5>
 <h5>adam@gmail.com</h5>
 <h2>Endpoints </h2>
 
